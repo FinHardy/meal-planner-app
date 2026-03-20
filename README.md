@@ -4,6 +4,13 @@ A self-contained, single-file weekly meal planner. No install, no server, no acc
 
 ---
 
+## Screenshot
+
+![Meal Planner screenshot](./meal-planner-screenshot.png)
+
+
+
+
 ## Getting Started
 
 1. Download or clone the repository.
